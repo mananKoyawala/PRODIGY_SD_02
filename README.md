@@ -16,8 +16,8 @@ This is a program that challenges the user to guess a randomly generated number 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/guess-the-number.git
-   cd task2
+   git clone https://github.com/mananKoyawala/PRODIGY_SD_02.git
+   cd PRODIGY_SD_02
    ```
 
 2. **Run the application:**
