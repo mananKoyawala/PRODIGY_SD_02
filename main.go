@@ -52,7 +52,7 @@ func checkGuessedNumber(randNum, guessNum int) {
 		os.Exit(0)
 	}
 
-	if guessNum >= (randNum-8) && guessNum <= (randNum+8) {
+	if guessNum >= (randNum-3) && guessNum <= (randNum+3) {
 		fmt.Println("\nyou are almost there")
 	} else if guessNum > randNum {
 		fmt.Println("\nguessed number is too high then generate number")
